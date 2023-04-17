@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/AdriMG10/AdriMG10/blob/master/escritorio.mp4">
+</p>
+
+<p align="center">
   <img src="https://github.com/AdriMG10/AdriMG10/blob/master/dino.gif">
 </p>
 
