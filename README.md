@@ -9,7 +9,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriMG10&amp;hide=TeX&amp;layout=compact&amp;theme=dark" alt="Top Langs">
 </p>
-
-<p align="right">
-  <img src="https://profile-counter.glitch.me/AdriMG10/count.svg" alt="Visitor Count">
-</p>
